@@ -1,0 +1,8 @@
+management:
+  secirity:
+    enabled: true
+
+    spring:
+      resources:
+        chein:
+          enabled: true
